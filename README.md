@@ -11,5 +11,3 @@ It allows users to add tasks, mark them as complete, and remove them. The app is
 - **Remove Tasks**: Users can delete tasks from the list.
 - **Responsive Design**: The app is fully responsive and works on desktops, tablets, and mobile devices.
 - **Persistent Data**: Local storage is used to save tasks, so even after refreshing the page, the list remains intact.
-
-
